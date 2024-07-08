@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tharun Umesh</h1>
 <h3 align="center">Computer Engineering Undergraduate from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharumesh&label=Profile%20views&color=0e75b6&style=flat" alt="tharumesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharumesh&label=Profile%20views&color=0e75b6&style=flat" alt="tharumesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharumesh" alt="tharumesh" /></a> </p>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharumesh" alt="tharumesh" /></a> </p>
+
+ <h3 align= "left">💫 About Me:</h3>
 
 - 🌱 I’m currently learning **Next.js & Spring**
 
