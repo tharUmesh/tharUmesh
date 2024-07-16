@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharumesh&label=Profile%20views&color=0e75b6&style=flat" alt="tharumesh" /> </p>
 
 <div align="center">
-  <img  src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/tharUmesh/tharUmesh/blob/main/github-contribution-grid-snake.svg"
+       alt="Grid-Snake" /></a>
 </div>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharumesh" alt="tharumesh" /></a> </p>
