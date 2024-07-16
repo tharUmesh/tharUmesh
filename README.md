@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharumesh&label=Profile%20views&color=0e75b6&style=flat" alt="tharumesh" /> </p>
 
 <div align="center">
-  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)"
+  <img  src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 <br/>
